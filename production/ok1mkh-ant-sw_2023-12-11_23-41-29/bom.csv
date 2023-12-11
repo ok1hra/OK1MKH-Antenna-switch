@@ -1,0 +1,10 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+"C1, C2, C3",C_Disc_D8.0mm_W2.5mm_P5.00mm,3,C_1n_2kV_1206,
+D1,D_A-405_P10.16mm_Horizontal,1,1N4002,
+D2,LED_D5.0mm,1,LED,
+H1,MountingHole_3.2mm_M3_Pad_Via,1,MEC_MountingHole_3.2mm_M3_Pad_Via,
+"H2, H3, H4, H5",MountingHole_3.2mm_M3_ISO7380_Pad,4,MEC_MountingHole_3.2mm_M3_ISO7380_Pad,
+"J1, J2, J3, J4",PL-SO-239,4,Conn_01x02_PL_SO-239,
+J5,796638-3,1,Conn_01x03_5.08mm_Right_terminal_796638-3,
+R1,R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal,1,1k,
+"RL1, RL2",REL_RT4240xx,2,REL_DPDT_2x8A_RT4240xx,
